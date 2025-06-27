@@ -1,2 +1,4 @@
 # edu1337
-Welcome to my repository!
+Bem-Vindo ao meu repositorio!
+
+Este é meu repositorio para salvar scripts.
