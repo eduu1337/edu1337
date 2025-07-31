@@ -1,7 +1,7 @@
-#######################
-# Calculadora de Idade
-#Edu N°8  1°E
-#######################
+#########################
+# Calculadora de Idade  #
+# Edu N°8  1°E          #
+########################
 
 print("Vamos calcular sua idade!")
 ano_nascimento = int(input("Digite seu ano de nascimento: "))
