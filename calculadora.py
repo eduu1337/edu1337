@@ -1,6 +1,6 @@
 #######################
 # Calculadora Simples
-#Edu N°8  1°E
+# Edu N°8  1°E
 #######################
 
 print("Vamos somar dois números!")
