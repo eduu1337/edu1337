@@ -2,6 +2,10 @@
 # Eduardo Alves Martin N°8
 # 1°E 18/08/2025
 ############################
+VERMELHO = "\033[31m"
+VERDE = "\033[32m"
+############################
+
 TAM_CNPJ = 18
 cnpj = input("Por favor, insira o CNPJ:")
 flag = True
@@ -19,7 +23,7 @@ else:
                 break
 
 if flag:
-    print("Formato de CNPJ Válido.")
+    print(f"{VERDE}Formato de CNPJ Válido.")
 else:
-    print("O CNPJ informado não tem um formato válido.")
+    print(f"{VERMELHO}O CNPJ informado não tem um formato válido.")
 ############################
